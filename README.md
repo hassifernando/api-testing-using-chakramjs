@@ -1,2 +1,2 @@
-# api-testing-using-chakramjs
-Api Testing Using Chakram Js
+# api-testing-using-cypress
+Api Testing Using cypress
