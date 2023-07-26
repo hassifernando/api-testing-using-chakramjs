@@ -1,0 +1,23 @@
+{
+  "name": "api-testing-using-cypress",
+  "description": "Api Testing Using cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassifernando/api-testing-using-chakramjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassifernando/api-testing-using-chakramjs/issues"
+  },
+  "homepage": "https://github.com/hassifernando/api-testing-using-chakramjs#readme"
+}
